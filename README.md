@@ -14,8 +14,8 @@ I'm Avik Nayak and I am a Computer Science and Engineering student at Techno Ind
 ## Recent Projects ⭐
 Here are some projects that I've recently worked on:
 
-- [Country Info Finder](https://an-country-info-app.netlify.app/)
-- [Text-to-Emoji](https://aviknayak22.github.io/Text-to-Emoji/)
+- [Country Info Finder](https://github.com/AvikNayak22/Country-Info-Finder)
+- [Text-to-Emoji](https://github.com/AvikNayak22/Text-to-Emoji)
 - [Mini Music Player](https://github.com/AvikNayak22/Mini-music-player)
 - [CaptureVision Lite](https://github.com/AvikNayak22/CaptureVision-Lite)
 - [Task Manager](https://github.com/AvikNayak22/task-manager-react)
