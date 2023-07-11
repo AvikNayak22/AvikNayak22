@@ -19,7 +19,7 @@ Here are some projects that I've recently worked on:
 - [Mini Music Player](https://github.com/AvikNayak22/Mini-music-player)
 - [Task Manager](https://github.com/AvikNayak22/task-manager-react)
 - [Resume Maker](https://github.com/AvikNayak22/Resume-Maker)
-- [Wiki Search](https://github.com/AvikNayak22/wiki-search-app)
+- [Wiki Seeker](https://github.com/AvikNayak22/Wiki-Seeker)
 
 
 ## 🏆 My GitHub stats
