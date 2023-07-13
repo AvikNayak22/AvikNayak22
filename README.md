@@ -14,7 +14,7 @@ I'm Avik Nayak and I am a Computer Science and Engineering student at Techno Ind
 ## Recent Projects ⭐
 Here are some projects that I've recently worked on:
 
-- [Code snippets](https://an-code-snippets.netlify.app/)
+- [Code snippets](https://github.com/AvikNayak22/Code-snippets)
 - [Country Info Finder](https://github.com/AvikNayak22/Country-Info-Finder)
 - [Text-to-Emoji](https://github.com/AvikNayak22/Text-to-Emoji)
 - [CaptureVision Lite](https://github.com/AvikNayak22/CaptureVision-Lite)
