@@ -23,9 +23,9 @@ Here are some projects that I've recently worked on:
 
 
 ## 🏆 My GitHub stats
-[![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvikNayak22&show_icons=true&theme=dark)](https://github.com/AvikNayak22/github-readme-stats)
+[![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvikNayak22&show_icons=true&theme=discord_old_blurple)](https://github.com/AvikNayak22/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvikNayak22&layout=compact&theme=dark)](https://github.com/AvikNayak22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvikNayak22&layout=compact&theme=discord_old_blurple)](https://github.com/AvikNayak22/github-readme-stats)
 
 ## Connect with me 🌐
 
