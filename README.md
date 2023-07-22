@@ -18,7 +18,6 @@ Here are some projects that I've recently worked on:
 - [Country Info Finder](https://github.com/AvikNayak22/Country-Info-Finder)
 - [Text-to-Emoji](https://github.com/AvikNayak22/Text-to-Emoji)
 - [CaptureVision Lite](https://github.com/AvikNayak22/CaptureVision-Lite)
-- [Wiki Seeker](https://github.com/AvikNayak22/Wiki-Seeker)
 - [Mini Music Player](https://github.com/AvikNayak22/Mini-music-player)
 
 
