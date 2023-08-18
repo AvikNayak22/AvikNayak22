@@ -18,7 +18,7 @@ Here are some projects that I've recently worked on:
 - [Country Info Finder](https://github.com/AvikNayak22/Country-Info-Finder)
 - [Code snippets](https://github.com/AvikNayak22/Code-snippets)
 - [Text-to-Emoji](https://github.com/AvikNayak22/Text-to-Emoji)
-- [Task Manager](https://github.com/AvikNayak22/task-manager-react)
+- [PriorityWise](https://github.com/AvikNayak22/PriorityWise)
 
 
 ## 🏆 My GitHub stats
