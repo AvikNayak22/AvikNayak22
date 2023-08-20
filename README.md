@@ -15,9 +15,9 @@ I'm Avik Nayak and I am a Computer Science and Engineering student at Techno Ind
 Here are some projects that I've recently worked on:
 
 - [invoicelit](https://github.com/AvikNayak22/invoicelit)
+- [google search clone](https://github.com/AvikNayak22/google-clone)
 - [Country Info Finder](https://github.com/AvikNayak22/Country-Info-Finder)
 - [Code snippets](https://github.com/AvikNayak22/Code-snippets)
-- [Text-to-Emoji](https://github.com/AvikNayak22/Text-to-Emoji)
 - [PriorityWise](https://github.com/AvikNayak22/PriorityWise)
 
 
