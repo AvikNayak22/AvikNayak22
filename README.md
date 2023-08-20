@@ -33,5 +33,5 @@ Feel free to contact me!
 - 💬 [Checkout my Telegram](https://t.me/NikoSees)
 - 🐦 [Chat with me on Twitter](https://twitter.com/__AvikNayak__)
 - 📱   [Connect with me on Linkedin](https://www.linkedin.com/in/avik-nayak-50b667222/)
-- 🌐 [Checkout My portfolio website](https://an-portfolio-tailwind.netlify.app/)
+- 🌐 [Checkout My portfolio website](https://devfolio-seven.vercel.app/)
 
