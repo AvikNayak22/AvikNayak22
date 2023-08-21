@@ -14,7 +14,7 @@ I'm Avik Nayak and I am a Computer Science and Engineering student at Techno Ind
 ## Recent Projects ⭐
 Here are some projects that I've recently worked on:
 
-- [Simply Invoice](https://github.com/AvikNayak22/Simply-Invoice)
+- [Nxt Invoice](https://github.com/AvikNayak22/Nxt-Invoice)
 - [google search clone](https://github.com/AvikNayak22/google-clone)
 - [Country Info Finder](https://github.com/AvikNayak22/Country-Info-Finder)
 - [Code snippets](https://github.com/AvikNayak22/Code-snippets)
