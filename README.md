@@ -31,10 +31,10 @@ Here are some of the technologies and tools I frequently work with:
 ## ⭐ Recent Projects 
 Here are some projects that I've recently worked on:
 
+- [Giphy Hunt](https://github.com/AvikNayak22/Giphy-Hunt)
 - [React Invoice](https://github.com/AvikNayak22/React-Invoice)
 - [google search clone](https://github.com/AvikNayak22/google-clone)
 - [Country Info Finder](https://github.com/AvikNayak22/Country-Info-Finder)
-- [Code snippets](https://github.com/AvikNayak22/Code-snippets)
 - [PriorityWise](https://github.com/AvikNayak22/PriorityWise)
 
 
