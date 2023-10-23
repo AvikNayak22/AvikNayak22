@@ -1,11 +1,14 @@
-## Hello, I'm Avik Nayak 👋
+## Hi 👋 I'm Avik Nayak.
 
-🚀 Aspiring React Developer | Code Enthusiast | Lifelong Learner
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avik-nayak-50b667222/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/__AvikNayak__)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](https://devfolio-seven.vercel.app/)
 
-## 👨‍💻 My Tech Stack
+###  👨‍💻 About Me :
 
-Here are some of the technologies and tools I frequently work with:
+I am a recent computer science and engineering graduate from Techno India University.
 
+### 🛠️ Languages and Tools :
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,20 +19,10 @@ Here are some of the technologies and tools I frequently work with:
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 🌱 What I'm Doing Right Now
 
-- 👨‍💻 Learning React, diving deep into component-based architecture.
-- 🚧 Working on personal projects to put my skills to the test.
-- 📚 Expanding my knowledge of web development with JavaScript, HTML, and CSS.
-
-## ⭐ Recent Projects 
-Here are some projects that I've recently worked on:
+### 📅 Recent Projects : 
 
 - [Giphy Hunt](https://github.com/AvikNayak22/Giphy-Hunt)
 - [React Invoice](https://github.com/AvikNayak22/React-Invoice)
@@ -38,23 +31,11 @@ Here are some projects that I've recently worked on:
 - [PriorityWise](https://github.com/AvikNayak22/PriorityWise)
 
 
-## 🏆 My GitHub stats
+### 🏆 My Stats :
 [![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvikNayak22&show_icons=true&theme=discord_old_blurple)](https://github.com/AvikNayak22/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvikNayak22&layout=compact&theme=discord_old_blurple)](https://github.com/AvikNayak22/github-readme-stats)
 
 
-## 🌐 Connect with Me
 
-Let's connect and chat about coding, technology, or anything else!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avik-nayak-50b667222/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/__AvikNayak__)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](https://devfolio-seven.vercel.app/)
-
-## 🌟 Thanks for Stopping By!
-
-Thank you for visiting my GitHub profile. I'm constantly learning and growing as a developer, and I hope my journey inspires you in your own coding adventures. Let's connect, collaborate, and create amazing things together! 🚀
-
-![Visitor Count](https://profile-counter.glitch.me/AvikNayak22/count.svg)
 
