@@ -24,11 +24,10 @@ I am a recent computer science and engineering graduate from Techno India Univer
 
 ### 📅 Recent Projects : 
 
-- [Giphy Hunt](https://github.com/AvikNayak22/Giphy-Hunt)
+- [Amazon Clone](https://amazon-clone-psi-rust.vercel.app/)
 - [React Invoice](https://github.com/AvikNayak22/React-Invoice)
-- [google search clone](https://github.com/AvikNayak22/google-clone)
+- [Google Search Clone](https://github.com/AvikNayak22/google-clone)
 - [Country Info Finder](https://github.com/AvikNayak22/Country-Info-Finder)
-- [PriorityWise](https://github.com/AvikNayak22/PriorityWise)
 
 
 ### 🏆 My Stats :
