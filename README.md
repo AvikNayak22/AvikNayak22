@@ -24,7 +24,7 @@ I am a recent computer science and engineering graduate from Techno India Univer
 
 ### 📅 Recent Projects : 
 
-- [Amazon Clone](https://amazon-clone-psi-rust.vercel.app/)
+- [Amazon Clone](https://github.com/AvikNayak22/Amazon-clone)
 - [React Invoice](https://github.com/AvikNayak22/React-Invoice)
 - [Google Search Clone](https://github.com/AvikNayak22/google-clone)
 - [Country Info Finder](https://github.com/AvikNayak22/Country-Info-Finder)
