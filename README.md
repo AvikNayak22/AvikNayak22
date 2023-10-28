@@ -3,28 +3,30 @@
 
 I am a recent computer science and engineering graduate from Techno India University.
 
+---
 
-
-### 🛠️ Tools & Technologies :
+### 🛠️ Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,react,redux,tailwind,styledcomponents,sass,git,github,md,vscode)](https://skillicons.dev)
 
+---
 
 
 
-### 📅 Recent Projects : 
+
+### 📅 Recent Projects 
 
 - [Amazon Clone](https://github.com/AvikNayak22/Amazon-clone)
 - [React Invoice](https://github.com/AvikNayak22/React-Invoice)
 - [Google Search Clone](https://github.com/AvikNayak22/google-clone)
 - [Country Info Finder](https://github.com/AvikNayak22/Country-Info-Finder)
 
+---
 
 
-
-### 📊 My Stats :
+### 📊 My Stats
 [![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvikNayak22&show_icons=true&theme=light)](https://github.com/AvikNayak22/github-readme-stats)
 
-
+---
 
 ### 📱 My Socials :
 
