@@ -24,7 +24,7 @@ I am a recent computer science and engineering graduate from Techno India Univer
 
 
 ### 📊 My Stats
-[![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvikNayak22&show_icons=true&theme=light)](https://github.com/AvikNayak22/github-readme-stats)
+[![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvikNayak22&show_icons=true&theme=dark)](https://github.com/AvikNayak22/github-readme-stats)
 
 ##
 
