@@ -17,7 +17,7 @@ I am a recent computer science and engineering graduate from Techno India Univer
 
 | Amazon Clone                           | Google Search Clone                            | React Invoice Generator                                     |
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
-| [<img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/a219860d-70c6-48fd-944b-327b57e5862e" alt="drawing" width="400"/>](https://github.com/AvikNayak22/Amazon-clone) | [<img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/03d07e89-8b18-4f2c-a9d7-70f5cfe1637e" alt="drawing" width="400"/>](https://github.com/AvikNayak22/google-clone) | [<img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/3257a444-29d9-4c90-a7d2-35510007f617" alt="drawing" width="400"/>](https://github.com/AvikNayak22/React-Invoice) |
+|<a href="https://github.com/AvikNayak22/google-clone"><img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/a219860d-70c6-48fd-944b-327b57e5862e" alt="drawing" width="400"/></a>  | <img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/03d07e89-8b18-4f2c-a9d7-70f5cfe1637e" alt="drawing" width="400"/> | <img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/3257a444-29d9-4c90-a7d2-35510007f617" alt="drawing" width="400"/> |
 
 
 
