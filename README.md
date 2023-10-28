@@ -31,9 +31,7 @@ I am a recent computer science and engineering graduate from Techno India Univer
 
 
 ### 🏆 My Stats :
-[![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvikNayak22&show_icons=true&theme=discord_old_blurple)](https://github.com/AvikNayak22/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvikNayak22&layout=compact&theme=discord_old_blurple)](https://github.com/AvikNayak22/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvikNayak22&layout=compact&theme=discord_old_blurple)](https://github.com/AvikNayak22/github-readme-stats)  [![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvikNayak22&show_icons=true&theme=discord_old_blurple)](https://github.com/AvikNayak22/github-readme-stats)
 
 
 
