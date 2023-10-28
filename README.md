@@ -14,11 +14,21 @@ I am a recent computer science and engineering graduate from Techno India Univer
 
 
 ### 📅 Recent Projects :
+#### 1. Amazon Clone 
+[![Screenshot 2023-10-21 210446](https://github.com/AvikNayak22/AvikNayak22/assets/110925067/a219860d-70c6-48fd-944b-327b57e5862e)
+](https://github.com/AvikNayak22/Amazon-clone)
 
-- [Amazon Clone](https://github.com/AvikNayak22/Amazon-clone)
-- [React Invoice](https://github.com/AvikNayak22/React-Invoice)
-- [Google Search Clone](https://github.com/AvikNayak22/google-clone)
-- [Country Info Finder](https://github.com/AvikNayak22/Country-Info-Finder)
+#### 2. React Invoice
+[![Screenshot 2023-10-21 213455](https://github.com/AvikNayak22/AvikNayak22/assets/110925067/3257a444-29d9-4c90-a7d2-35510007f617)
+](https://github.com/AvikNayak22/React-Invoice)
+
+#### 3. Google Search Clone
+[![Screenshot 2023-10-21 212858](https://github.com/AvikNayak22/AvikNayak22/assets/110925067/03d07e89-8b18-4f2c-a9d7-70f5cfe1637e)
+](https://github.com/AvikNayak22/google-clone)
+
+#### 4. Country Info Finder
+[![Screenshot 2023-10-21 210230](https://github.com/AvikNayak22/AvikNayak22/assets/110925067/fcf9e817-0339-42cf-90c5-8d619847c896)
+](https://github.com/AvikNayak22/Country-Info-Finder)
 
 ##
 
