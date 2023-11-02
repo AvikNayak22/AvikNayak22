@@ -15,9 +15,9 @@ I am a recent computer science and engineering graduate from Techno India Univer
 
 ### 📅 Recent Projects :
 
-| Amazon Clone [🔗](https://github.com/AvikNayak22/Amazon-clone) | Google Search Clone [🔗](https://github.com/AvikNayak22/google-clone)  | React Invoice Generator  [🔗](https://github.com/AvikNayak22/React-Invoice) |
+| Amazon Clone [🔗](https://github.com/AvikNayak22/Amazon-clone) | searxyz [🔗](https://github.com/AvikNayak22/searxyz)  | React Invoice Generator  [🔗](https://github.com/AvikNayak22/React-Invoice) |
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
-|<img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/a219860d-70c6-48fd-944b-327b57e5862e" alt="drawing" width="400"/> | <img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/03d07e89-8b18-4f2c-a9d7-70f5cfe1637e" alt="drawing" width="400"/> | <img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/3257a444-29d9-4c90-a7d2-35510007f617" alt="drawing" width="400"/> |
+|<img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/a219860d-70c6-48fd-944b-327b57e5862e" alt="drawing" width="400"/> | <img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/ce660658-fb37-4147-93c7-b832d1592ca7" alt="drawing" width="400"/> | <img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/3257a444-29d9-4c90-a7d2-35510007f617" alt="drawing" width="400"/> |
 
 
 
