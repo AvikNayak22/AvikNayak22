@@ -1,7 +1,6 @@
-## Hi 👋 I'm Avik Nayak.
+## 👋 Hello, I am Avik Nayak
 
-
-I am a recent computer science and engineering graduate from Techno India University.
+I am an aspiring software engineer dedicated to the pursuit of knowledge and innovation. This GitHub profile is a testament to my commitment to the world of technology and its endless possibilities. I'm on a continuous learning journey, exploring the ever-evolving landscape of programming and software development. My primary goal is to collaborate on open-source projects, engage with the developer community, and contribute to meaningful technological advancements.
 
 ---
 
@@ -11,15 +10,9 @@ I am a recent computer science and engineering graduate from Techno India Univer
 ##
 
 
+### Github Trophies:
 
-
-### 📅 Recent Projects :
-
-| Amazon Clone [🔗](https://github.com/AvikNayak22/Amazon-clone) | searxyz [🔗](https://github.com/AvikNayak22/searxyz)  | React Invoice Generator  [🔗](https://github.com/AvikNayak22/React-Invoice) |
-| ----------------------------------- | ----------------------------------- | ------------------------------------------- |
-|<img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/a219860d-70c6-48fd-944b-327b57e5862e" alt="drawing" width="400"/> | <img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/ce660658-fb37-4147-93c7-b832d1592ca7" alt="drawing" width="400"/> | <img src="https://github.com/AvikNayak22/AvikNayak22/assets/110925067/3257a444-29d9-4c90-a7d2-35510007f617" alt="drawing" width="400"/> |
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=AvikNayak22&theme=discord)](https://github.com/AvikNayak22/github-profile-trophy)
 
 ##
 
@@ -27,7 +20,6 @@ I am a recent computer science and engineering graduate from Techno India Univer
 ### 📊 My Stats :
 [![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvikNayak22&show_icons=true&theme=synthwave)](https://github.com/AvikNayak22/github-readme-stats)
 
-[![Avik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvikNayak22&theme=github)](https://github.com/AvikNayak22/github-readme-activity-graph)
 
 ##
 
