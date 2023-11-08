@@ -10,7 +10,7 @@ I am an aspiring software engineer dedicated to the pursuit of knowledge and inn
 ##
 
 
-### Github Trophies:
+### 🏆 Github Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AvikNayak22&theme=discord)](https://github.com/AvikNayak22/github-profile-trophy)
 
