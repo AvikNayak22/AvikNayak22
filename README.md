@@ -18,10 +18,15 @@ I am an aspiring software engineer dedicated to the pursuit of knowledge and inn
 
 
 ### 📊 My Stats :
-[![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvikNayak22&show_icons=true&theme=tokyonight)](https://github.com/AvikNayak22/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvikNayak22&layout=compact&theme=tokyonight)](https://github.com/AvikNayak22/github-readme-stats)
+
+<div align="left">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AvikNayak22&theme=city_lights" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AvikNayak22&theme=city_lights" height="180em" />
+</div>
+
 
 ##
+
 
 ### 📱 My Socials :
 
