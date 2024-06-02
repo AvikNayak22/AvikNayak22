@@ -5,7 +5,7 @@ I am an aspiring software engineer dedicated to the pursuit of knowledge and inn
 ---
 
 ### 🛠️ Tools & Technologies :
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,redux,tailwind,sass,nodejs,expressjs,mongodb,git,github,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,redux,tailwind,styledcomponents,nodejs,expressjs,mongodb,git,github)](https://skillicons.dev)
 
 ##
 
