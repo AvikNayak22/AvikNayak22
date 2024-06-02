@@ -1,4 +1,4 @@
-## 👋 Hello, I am Avik Nayak
+# 👋 Hello, I am Avik Nayak
 
 - I'm an aspiring software engineer, always eager to learn and improve. 🌱
   
