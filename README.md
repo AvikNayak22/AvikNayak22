@@ -1,6 +1,6 @@
 ## 👋 Hello, I am Avik Nayak
 
-I am an aspiring software engineer dedicated to the pursuit of knowledge and innovation. This GitHub profile is a testament to my commitment to the world of technology and its endless possibilities. I'm on a continuous learning journey, exploring the ever-evolving landscape of programming and software development. My primary goal is to collaborate on open-source projects, engage with the developer community, and contribute to meaningful technological advancements.
+I'm an aspiring software engineer passionate about learning and innovation. My GitHub profile reflects my dedication to technology and its potential. I'm constantly learning and exploring programming and software development. My main aim is to collaborate on open-source projects, engage with the developer community, and contribute to technological advancements.
 
 ---
 
