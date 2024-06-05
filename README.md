@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Tools & Technologies :
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,redux,tailwind,styledcomponents,nodejs,expressjs,mongodb,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,redux,tailwind,firebase,nodejs,expressjs,mongodb,git,github)](https://skillicons.dev)
 
 ##
 
