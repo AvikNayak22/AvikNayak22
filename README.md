@@ -1,7 +1,6 @@
 # 👋 Hello, I am Avik Nayak
 
-I'm an aspiring software engineer who thrives on learning and improving skills. My GitHub profile highlights my ongoing projects and coding explorations. I value continuous growth and am grateful for the chance to expand my skills. My goal is to contribute to open-source projects, even if in a small capacity, as a way of giving back to the community that has nurtured my development. Engaging with other developers is an inspiring and enriching experience, allowing me to learn from their expertise. Ultimately, I hope to make a positive, however modest, impact in the world of technology. 
-
+I'm an aspiring software engineer dedicated to continuous learning and skill enhancement. My GitHub showcases my projects and coding explorations. I aim to contribute to open-source projects to give back to the community and find inspiration in collaborating with other developers. My goal is to make a positive impact in the world of technology.
 
 ---
 
