@@ -1,11 +1,11 @@
 # 👋 Hello, I am Avik Nayak
 
-I'm an aspiring software engineer dedicated to continuous learning and skill enhancement. My GitHub showcases my projects and coding explorations. I aim to contribute to open-source projects to give back to the community and find inspiration in collaborating with other developers. My goal is to make a positive impact in the world of technology.
+I am an aspiring software engineer committed to continuous learning. My GitHub profile displays some of my recent projects. I aim to contribute to open-source projects and collaborate with other developers. My goal is to make a positive impact on technology through my work.
 
 ---
 
 ### 🛠️ Tools & Technologies :
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,redux,tailwind,firebase,nodejs,expressjs,mongodb,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,typescript,react,redux,nextjs,tailwind,firebase,nodejs,expressjs,MongoDB)](https://skillicons.dev)
 
 ##
 
