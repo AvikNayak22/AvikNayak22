@@ -5,7 +5,7 @@ I am an aspiring software engineer committed to continuous learning. My GitHub p
 ---
 
 ### 🛠️ Tools & Technologies :
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,typescript,react,redux,nextjs,tailwind,firebase,nodejs,expressjs,MongoDB)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,typescript,react,redux,nextjs,tailwind,firebase,nodejs,expressjs,mongodb)](https://skillicons.dev)
 
 ##
 
