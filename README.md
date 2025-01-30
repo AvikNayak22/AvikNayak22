@@ -4,7 +4,7 @@ A developer focused on web technologies. I enjoy building applications with Java
 
 - 🔭 Currently working on building full-stack web applications
 - 🌱 Learning Framer Motion and Docker
-- 👯 Open to collaborating on web development projects
+- 🤝 Open to collaborating on web development projects
   
 ## 🛠️ My Tech Stack
 
