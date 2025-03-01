@@ -39,8 +39,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AvikNayak22&theme=tokyonight" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AvikNayak22&theme=tokyonight" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AvikNayak22&theme=tokyonight" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=AvikNayak22&theme=tokyonight" height="180em" />
 </p>
-
 
 
 ## 🤝 **Connect With Me**  
