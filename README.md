@@ -1,23 +1,27 @@
-# AVIK NAYAK
+# 👤 Profile: Avik Nayak
 
-📍 ROLE: FULLSTACK DEVELOPER  
-💻 STACK: React • Next.js • Node • TypeScript  
-📂 FOCUS: DX, performance, and usability
+🧠 Role: Full Stack Web Developer  
+💼 Stack: React, Next.js, TypeScript, Node.js  
+🔐 Auth: Clerk, Kinde  
+🗄️ DB: Supabase, Prisma, MongoDB  
+🧰 Tools: Zustand, Tailwind CSS, Convex, Appwrite
 
----
 
-🧰 TECH  
-React • Next.js • Zustand • Tailwind  
-Node.js • Supabase • Prisma • Clerk • Convex
+## 🛠️ Core Traits
 
----
+- Builds fast, accessible UIs  
+- Ships secure, scalable APIs  
+- Optimizes for DX and performance  
+- Thinks in components, flows, and state
 
-📬 CONTACT  
-📧 nayakavik19@gmail.com  
+## 📫 Contact & Links
+
 🔗 [GitHub](https://github.com/aviknayak22)  
-💼 [LinkedIn](https://linkedin.com/in/avik-nayak)
+🔗 [LinkedIn](https://linkedin.com/in/avik-nayak)  
+📧 nayakavik19@gmail.com
 
----
+> Motto: “Make it simple, but significant.”
+
 
 
 
