@@ -17,9 +17,10 @@
 
 ## 📁 Deployed Projects
 
-▸ **Landmarkr** — Property listings app w/ uploads + filtering  
-▸ **Syntaxium** — Web-based code editor w/ syntax highlighting + multi-language support + code execution <br/>
-▸ **SpendWisely** — Budget tracker with chart visuals
+▸ **[Landmarkr](https://github.com/AvikNayak22/landmarkr)** — Property listings app w/ uploads + filtering <br/>
+▸ **[EasyOrder](https://github.com/AvikNayak22/easyorder)** — POS system for restaurants and cafés  
+▸ **[Syntaxium](https://github.com/AvikNayak22/syntaxium)** — Web-based code editor w/ syntax highlighting + multi-language support + code execution <br/>
+▸ **[SpendWisely](https://github.com/AvikNayak22/spendwisely)** — Budget tracker with chart visuals
 
 ---
 
