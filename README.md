@@ -1,18 +1,27 @@
-# 👤 Profile: Avik Nayak
+# AVIK NAYAK
 
-🧠 Role: Full Stack Web Developer  
-💼 Stack: React, Next.js, TypeScript, Node.js  
-🔐 Auth: Clerk, Kinde  
-🗄️ DB: Supabase, Prisma, MongoDB  
-🧰 Tools: Zustand, Tailwind CSS, Convex, Appwrite
+🧑 Role: Full Stack Developer  
+🧭 Location: India  
+🧠 Focus: Clean UI · Secure Backends · Dev Experience
 
+---
 
-## 🛠️ Core Traits
+## ⚙️ Tech Stack
 
-- Builds fast, accessible UIs  
-- Ships secure, scalable APIs  
-- Optimizes for DX and performance  
-- Thinks in components, flows, and state
+🖥️ Frontend: React · Next.js · TypeScript · Tailwind · Zustand  
+📦 Backend: Node.js · Express · Convex · Appwrite  
+🗄️ Database: Supabase · MongoDB · Prisma · MySQL  
+🔐 Auth: Clerk · Kinde
+
+---
+
+## 📁 Deployed Projects
+
+▸ **Landmarkr** — Property listings app w/ uploads + filtering  
+▸ **Syntaxium** — Web-based code editor w/ syntax highlighting + multi-language support + code execution <br/>
+▸ **SpendWisely** — Budget tracker with chart visuals
+
+---
 
 ## 📫 Contact & Links
 
