@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=435&lines=Hi%20there%2C+I'm+Avik+Nayak;Full+Stack+%26+Next.js+Developer;Building+clean+%26+smart+web+apps" alt="Typing SVG" />
+ <h1 align="center">Hi, I'm Avik 👋</h1>
+ <h3 align="center">Full Stack Developer | Next.js Specialist</h3>
 </div>
 
 <p align="center">
